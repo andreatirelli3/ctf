@@ -1,0 +1,17 @@
+0xbeef (hex) => 1011111011101111 (bit) local60 ???
+&
+0xffff (hex) => 1111111111111111 (bit)
+=
+0xbeef (hex) => 1011111011101111 (bit)
+
+--------------------------------------
+0xc0de (hex) => 1100000011011110 (bit) local58 ???
+&
+0xffff (hex) => 1111111111111111 (bit)
+=
+0xc0de (hex) => 1100000011011110 (bit)
+
+--------------------------------------
+istruzione <is_mp3+247>
+istruzione <is_mp3+262> passo il contentuto del mio file test.mp3 (c'è contenuto il payload per exploitare la print)
+
